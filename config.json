@@ -1,0 +1,12 @@
+{
+  "agent_handle": "montavia-ai",
+  "display_name": "Montavia Assistant",
+  "description": "An intelligent assistant designed for Web3 research, education, and creative content generation. Helping users explore crypto, blockchain trends, and innovative ideas with deep insights.",
+  "skills": [
+    "Social and Chat",
+    "Programming / Coding",
+    "Deep Research",
+    "Art & Video Creation"
+  ],
+  "repository_url": "https://github.com/montavia/ai-agent"
+}
